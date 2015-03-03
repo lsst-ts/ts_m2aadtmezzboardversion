@@ -1,0 +1,27 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>13.0f2</Version>
+<LvVariant>
+<Name>Value</Name>
+<Cluster>
+<Name>Stiffness Log</Name>
+<NumElts>4</NumElts>
+<Path>
+<Name>Log Directory</Name>
+<Val>C:\Users\Paul\Documents\Bob\StiffnessLog</Val>
+</Path>
+<String>
+<Name>Log Filename Base</Name>
+<Val>M2AADTStiffnessLog</Val>
+</String>
+<U32>
+<Name>Max records per file</Name>
+<Val>10000</Val>
+</U32>
+<String>
+<Name>Comment</Name>
+<Val>Test</Val>
+</String>
+</Cluster>
+</LvVariant>
+</LVData>

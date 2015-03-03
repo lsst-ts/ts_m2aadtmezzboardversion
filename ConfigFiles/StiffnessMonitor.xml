@@ -1,0 +1,15 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>13.0.1</Version>
+<LvVariant>
+<Name>Value</Name>
+<Cluster>
+<Name>StiffnessMonitor</Name>
+<NumElts>1</NumElts>
+<DBL>
+<Name>Stiffness Lower Limit</Name>
+<Val>2500000.00000000000000</Val>
+</DBL>
+</Cluster>
+</LvVariant>
+</LVData>

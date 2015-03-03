@@ -1,0 +1,31 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>13.0.1</Version>
+<LvVariant>
+<Name>Value</Name>
+<Cluster>
+<Name>ForceSensorCalculator</Name>
+<NumElts>3</NumElts>
+<DBL>
+<Name>Capacity</Name>
+<Val>556.02769999999998</Val>
+</DBL>
+<DBL>
+<Name>Sensitivity</Name>
+<Val>1.60833000000000E-3</Val>
+</DBL>
+<Cluster>
+<Name>Bridge Resistors</Name>
+<NumElts>2</NumElts>
+<DBL>
+<Name>R1</Name>
+<Val>18000.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>R2</Name>
+<Val>12000.00000000000000</Val>
+</DBL>
+</Cluster>
+</Cluster>
+</LvVariant>
+</LVData>

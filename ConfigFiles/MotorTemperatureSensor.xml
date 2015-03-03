@@ -1,0 +1,80 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>13.0f2</Version>
+<LvVariant>
+<Name>Value</Name>
+<Cluster>
+<Name>Motor Temperature Sensor</Name>
+<NumElts>2</NumElts>
+<Cluster>
+<Name>Serial</Name>
+<NumElts>3</NumElts>
+<EW>
+<Name>Serial Protocol</Name>
+<Choice>RS232</Choice>
+<Choice>RS485</Choice>
+<Choice>SerialSimulator</Choice>
+<Val>2</Val>
+</EW>
+<Cluster>
+<Name>Protocol Parameters</Name>
+<NumElts>7</NumElts>
+<Refnum>
+<Name>VISA resource name</Name>
+<RefKind>VISA</RefKind>
+<Val></Val>
+</Refnum>
+<U32>
+<Name>Baud Rate</Name>
+<Val>9600</Val>
+</U32>
+<U16>
+<Name>Data Bits</Name>
+<Val>8</Val>
+</U16>
+<EW>
+<Name>Parity</Name>
+<Choice>None</Choice>
+<Choice>Odd</Choice>
+<Choice>Even</Choice>
+<Choice>Mark</Choice>
+<Choice>Space</Choice>
+<Val>0</Val>
+</EW>
+<U16>
+<Name>Flow Control</Name>
+<Val>0</Val>
+</U16>
+<U16>
+<Name>Stop Bits</Name>
+<Val>10</Val>
+</U16>
+<U32>
+<Name>Timeout (ms)</Name>
+<Val>10000</Val>
+</U32>
+</Cluster>
+<Cluster>
+<Name>Serial Message Parameters</Name>
+<NumElts>3</NumElts>
+<U32>
+<Name>Byte Count</Name>
+<Val>200</Val>
+</U32>
+<Boolean>
+<Name>Enable Termination Character</Name>
+<Val>1</Val>
+</Boolean>
+<U8>
+<Name>Termination Char</Name>
+<Val>10</Val>
+</U8>
+</Cluster>
+</Cluster>
+<DBL>
+<Name>Motor Overheat Temperature</Name>
+<Val>573.14999999999998</Val>
+</DBL>
+</Cluster>
+</LvVariant>
+</LVData>

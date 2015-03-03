@@ -1,0 +1,31 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>13.0.1</Version>
+<LvVariant>
+<Name>Value</Name>
+<Cluster>
+<Name>SystemController</Name>
+<NumElts>2</NumElts>
+<Cluster>
+<Name>PID Gains</Name>
+<NumElts>3</NumElts>
+<DBL>
+<Name>Proportional Gain (Kc)</Name>
+<Val>1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Integral Time (Ti, min)</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Derivative Time (Td, min)</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+<DBL>
+<Name>Force Error In Range Limit</Name>
+<Val>1.00000000000000</Val>
+</DBL>
+</Cluster>
+</LvVariant>
+</LVData>

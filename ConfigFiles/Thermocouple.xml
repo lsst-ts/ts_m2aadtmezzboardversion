@@ -1,0 +1,23 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>13.0.1</Version>
+<LvVariant>
+<Name>Value</Name>
+<Cluster>
+<Name>Thermocouple</Name>
+<NumElts>3</NumElts>
+<DBL>
+<Name>Thermocouple Conversion</Name>
+<Val>24831.10678000000190</Val>
+</DBL>
+<DBL>
+<Name>Motor Overheat Temperature</Name>
+<Val>573.14999999999998</Val>
+</DBL>
+<DBL>
+<Name>Ambient Temperature</Name>
+<Val>293.44999999999999</Val>
+</DBL>
+</Cluster>
+</LvVariant>
+</LVData>
