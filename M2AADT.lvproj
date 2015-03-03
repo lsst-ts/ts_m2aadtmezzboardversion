@@ -83,7 +83,6 @@
 				</Item>
 				<Item Name="ApplicationElements.ctl" Type="VI" URL="../Model/ApplicationElements/ApplicationElements.ctl"/>
 				<Item Name="DistanceGaugeTC.lvclass" Type="LVClass" URL="../Model/ApplicationElements/DistanceGaugeTC/DistanceGaugeTC.lvclass"/>
-				<Item Name="EncoderReaderTC.lvclass" Type="LVClass" URL="../Model/ApplicationElements/EncoderReaderTC/EncoderReaderTC.lvclass"/>
 				<Item Name="StepperMotorTC.lvclass" Type="LVClass" URL="../Model/ApplicationElements/StepperMotorTC/StepperMotorTC.lvclass"/>
 				<Item Name="StiffnessMonitor.lvclass" Type="LVClass" URL="../Model/ApplicationElements/StiffnessMonitor/StiffnessMonitor.lvclass"/>
 				<Item Name="SystemController.lvclass" Type="LVClass" URL="../Model/ApplicationElements/SystemController/SystemController.lvclass"/>
