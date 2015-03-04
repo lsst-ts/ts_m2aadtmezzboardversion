@@ -137,7 +137,6 @@
 				<Item Name="DistanceGauge.lvlib" Type="Library" URL="/&lt;userlib&gt;/Common/Devices/DistanceGauge/DistanceGauge.lvlib"/>
 				<Item Name="DistanceGaugeSim.lvclass" Type="LVClass" URL="/&lt;userlib&gt;/Common/Simulators/DistanceGaugeSim/DistanceGaugeSim.lvclass"/>
 				<Item Name="EncoderConverter.lvlib" Type="Library" URL="/&lt;userlib&gt;/Common/Devices/EncoderConverter/EncoderConverter.lvlib"/>
-				<Item Name="EncoderReader.lvlib" Type="Library" URL="/&lt;userlib&gt;/Common/Devices/EncoderReader/EncoderReader.lvlib"/>
 				<Item Name="ForceSensorCalculator.lvlib" Type="Library" URL="/&lt;userlib&gt;/Common/Devices/ForceSensorCalculator/ForceSensorCalculator.lvlib"/>
 				<Item Name="ILCCommon.lvlib" Type="Library" URL="/&lt;userlib&gt;/Common/ILC/ILCCommon.lvlib"/>
 				<Item Name="ILCSim1.lvclass" Type="LVClass" URL="/&lt;userlib&gt;/Common/Simulators/ILCSim1/ILCSim1.lvclass"/>
@@ -215,22 +214,22 @@
 				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
-				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../builds/M2AADT_MezzBoard</Property>
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{5E0C5CDC-F4EB-491C-AB90-13497E08BC6D}</Property>
-				<Property Name="Bld_version.build" Type="Int">6</Property>
+				<Property Name="Bld_version.build" Type="Int">7</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">M2AADT.exe</Property>
-				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/M2AADT.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/M2AADT_MezzBoard/NI_AB_PROJECTNAME.exe</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
-				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/data</Property>
+				<Property Name="Destination[1].path" Type="Path">../builds/M2AADT_MezzBoard/data</Property>
 				<Property Name="Destination[2].destName" Type="Str">ConfgiFiles</Property>
-				<Property Name="Destination[2].path" Type="Path">../builds/NI_AB_PROJECTNAME/ConfigFiles</Property>
+				<Property Name="Destination[2].path" Type="Path">../builds/M2AADT_MezzBoard/ConfigFiles</Property>
 				<Property Name="DestinationCount" Type="Int">3</Property>
-				<Property Name="Source[0].itemID" Type="Str">{D8467CE5-61CE-4654-84B8-A4F1F684DFC7}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{AD3ED570-3A78-4B7C-91F2-7924C66090CA}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/View/M2AADTViews.lvlib/m2aadtView.vi</Property>
@@ -245,7 +244,7 @@
 				<Property Name="SourceCount" Type="Int">3</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">M2AADT</Property>
 				<Property Name="TgtF_internalName" Type="Str">M2AADT</Property>
-				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2014 </Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 20145</Property>
 				<Property Name="TgtF_productName" Type="Str">M2AADT</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{F168CE82-5628-4DA7-B458-D99582DB0D17}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">M2AADT.exe</Property>
