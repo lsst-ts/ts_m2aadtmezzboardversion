@@ -226,10 +226,10 @@
 				<Property Name="Destination[0].type" Type="Str">App</Property>
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
 				<Property Name="Destination[1].path" Type="Path">../builds/M2AADT_MezzBoard/data</Property>
-				<Property Name="Destination[2].destName" Type="Str">ConfgiFiles</Property>
+				<Property Name="Destination[2].destName" Type="Str">ConfigFiles</Property>
 				<Property Name="Destination[2].path" Type="Path">../builds/M2AADT_MezzBoard/ConfigFiles</Property>
 				<Property Name="DestinationCount" Type="Int">3</Property>
-				<Property Name="Source[0].itemID" Type="Str">{AD3ED570-3A78-4B7C-91F2-7924C66090CA}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{703D4A1E-FB11-4DB4-8F7F-AF5CBD1254C5}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/View/M2AADTViews.lvlib/m2aadtView.vi</Property>
